@@ -1,0 +1,21 @@
+﻿<Properties StartupConfiguration="{5367364E-2F53-0DAE-5F63-C5F523F82E53}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Speedometer/Speedometer.cs">
+    <Files>
+      <File FileName="Assets/Speedometer/Speedometer.cs" Line="80" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="CarSpeedometer" expanded="True" selected="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="ecfe1eca-b06d-4b7b-80ba-b5a586bfcf35" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
