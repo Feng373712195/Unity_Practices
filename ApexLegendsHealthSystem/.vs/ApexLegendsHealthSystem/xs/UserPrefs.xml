@@ -1,0 +1,32 @@
+﻿<Properties StartupConfiguration="{61B5D224-A895-349C-94AA-C1042C1C94BE}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scrips/Character.cs">
+    <Files>
+      <File FileName="Assets/Scrips/GameHandle.cs" Line="13" Column="6" />
+      <File FileName="Assets/Scrips/CharacterWindow.cs" Line="125" Column="38" />
+      <File FileName="Assets/Scrips/Character.cs" Line="98" Column="10" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="ApexLegendsHealthSystem" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="CodeMonkey" expanded="True">
+                <Node name="Utils" expanded="True" />
+              </Node>
+              <Node name="Scrips" expanded="True">
+                <Node name="Character.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="6333c5e0-8c83-4b1e-82d1-4a56a8d61c8f" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
