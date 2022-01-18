@@ -1,12 +1,12 @@
-﻿<Properties StartupConfiguration="{BBD7FD2C-38E4-068D-3684-F2F1577BEB77}|">
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/ManaBar.cs">
+﻿<Properties StartupConfiguration="{78C0FD9E-8DEB-712E-1339-14229A38B298}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/HighscoreTable.cs">
     <Files>
-      <File FileName="Assets/Scripts/ManaBar.cs" Line="45" Column="7" />
+      <File FileName="Assets/Scripts/HighscoreTable.cs" Line="86" Column="48" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="ManaBar" expanded="True">
+          <Node name="HighScoreTable" expanded="True">
             <Node name="Assets" expanded="True" selected="True" />
           </Node>
         </State>
