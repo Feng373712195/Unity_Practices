@@ -1,0 +1,43 @@
+﻿<Properties StartupConfiguration="{A349DFA0-AE04-9A69-6DB4-5E3CF03CE1C8}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/ApexPingSystem/Scripts/PingUIHandler.cs">
+    <Files>
+      <File FileName="Assets/ApexPingSystem/Scripts/GameAssetsSystem.cs" Line="24" Column="34" />
+      <File FileName="Assets/ApexPingSystem/Scripts/PingUIHandler.cs" Line="19" Column="87" />
+      <File FileName="Assets/ApexPingSystem/Scripts/PingWindow.cs" Line="16" Column="98" />
+      <File FileName="Assets/ApexPingSystem/Scripts/PingSystem.cs" Line="14" Column="23" />
+      <File FileName="Assets/ApexPingSystem/Scripts/GameHandler.cs" Line="15" Column="10" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="ApexLegendsPingSystem" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="_" expanded="True">
+                <Node name="Stuff" expanded="True">
+                  <Node name="CodeMonkey" expanded="True">
+                    <Node name="MonoBehaviours" expanded="True" />
+                  </Node>
+                </Node>
+              </Node>
+              <Node name="ApexPingSystem" expanded="True">
+                <Node name="Scripts" expanded="True">
+                  <Node name="PingUIHandler.cs" selected="True" />
+                </Node>
+              </Node>
+              <Node name="CharacterMovement" expanded="True">
+                <Node name="Scripts" expanded="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="8e24385b-b7ea-4a80-aada-4e024e1ff769" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
