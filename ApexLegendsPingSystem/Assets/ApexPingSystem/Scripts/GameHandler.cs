@@ -5,13 +5,17 @@ using CodeMonkey.Utils;
 
 public class GameHandler : MonoBehaviour
 {
+    private void Awake()
+    {
+        PingSystem.Initialize();
+    }
     private void Update()
     {
         if (Input.GetMouseButtonDown(0))
         {
             PingSystem.AddPing(UtilsClass.GetMouseWorldPosition());
         }
-
+        
         PingSystem.Update();
     }
    

@@ -1,12 +1,5 @@
 ﻿<Properties StartupConfiguration="{A349DFA0-AE04-9A69-6DB4-5E3CF03CE1C8}|">
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/ApexPingSystem/Scripts/PingUIHandler.cs">
-    <Files>
-      <File FileName="Assets/ApexPingSystem/Scripts/GameAssetsSystem.cs" Line="24" Column="34" />
-      <File FileName="Assets/ApexPingSystem/Scripts/PingUIHandler.cs" Line="19" Column="87" />
-      <File FileName="Assets/ApexPingSystem/Scripts/PingWindow.cs" Line="16" Column="98" />
-      <File FileName="Assets/ApexPingSystem/Scripts/PingSystem.cs" Line="14" Column="23" />
-      <File FileName="Assets/ApexPingSystem/Scripts/GameHandler.cs" Line="15" Column="10" />
-    </Files>
+  <MonoDevelop.Ide.Workbench>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
@@ -21,7 +14,7 @@
               </Node>
               <Node name="ApexPingSystem" expanded="True">
                 <Node name="Scripts" expanded="True">
-                  <Node name="PingUIHandler.cs" selected="True" />
+                  <Node name="GameHandler.cs" selected="True" />
                 </Node>
               </Node>
               <Node name="CharacterMovement" expanded="True">

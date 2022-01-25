@@ -10,6 +10,13 @@ public class PingSystem {
     private static Ping lastPing;
     private static float lastPingTime;
 
+    private static List<Ping> pingList;
+
+    public static void Initialize()
+    {
+        pingList = new List<Ping>();
+    }
+
     public static void AddPing(Vector3 position)
     {
         if (lastPing != null && lastPing.GetPingType() == Ping.Type.Move)
@@ -40,7 +47,7 @@ public class PingSystem {
 
     public static void AddPing(Ping ping)
     {
-
+        pingList.Add(ping);
         Transform pingTransform = UnityEngine.Object.Instantiate(GameAssetsSystem.i.pfPingWorld, ping.GetPosition() , Quaternion.identity);
         switch (ping.GetPingType())
         {
@@ -66,10 +73,20 @@ public class PingSystem {
     public static void DestroyPing(Ping ping)
     {
         ping.DestroySelf();
+        pingList.Remove(ping);
     }
 
     public static void Update() {
-
+        for(int i = 0; i < pingList.Count; i++)
+        {
+            Ping ping = pingList[i];
+            if(Time.time > ping.GetDestroyTime())
+            {
+                // Time to destroy this ping
+                DestroyPing(ping);
+                i--;
+            }
+        }
     }
 
     /*
